@@ -8,7 +8,7 @@ I like new challenges and learn during the process.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blosky01&show_icons=true&theme=radical)](https://github.com/blosky01/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blosky01&show_icons=true&theme=github_dark)](https://github.com/blosky01/github-readme-stats)
 
 ---
 
