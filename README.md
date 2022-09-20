@@ -10,6 +10,9 @@ I like new challenges and learn during the process.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blosky01&show_icons=true&theme=github_dark)](https://github.com/blosky01/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blosky01&layout=compact)](https://github.com/blosky01/github-readme-stats)
+
 ---
 
 You can find me at: 
