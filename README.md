@@ -21,4 +21,4 @@ You can find me at:
 [![LinkedIn Badge](https://img.shields.io/twitter/follow/01PabloBravo?style=social
 )](https://twitter.com/01PabloBravo)
 
-[✉️*Email*](mailto:bravo.lopezpablo01@#gmail.com)
+[✉️*Email*](mailto:bravo.lopezpablo01@gmail.com)
