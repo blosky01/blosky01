@@ -9,8 +9,7 @@ I like new challenges and learn during the process.
 ---
 ![blosky01's GitHub stats](https://github-readme-stats.vercel.app/api?username=blosky01&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blosky01&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blosky01&hide_progress=true&theme=transparent)
 ---
 
 You can find me at: 
