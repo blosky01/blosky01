@@ -8,7 +8,7 @@ I like new challenges and learn during the process.
 
 ---
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blosky01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
