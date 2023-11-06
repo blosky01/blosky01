@@ -8,7 +8,6 @@ I like new challenges and learn during the process.
 
 ---
 
-[![Blosky's GitHub stats](https://github-readme-stats.vercel.app/api?username=blosky01&show_icons=true&theme=vue&count_private=true&include_all_commits=true)](https://github.com/blosky01/github-readme-stats)
 
 
 ---
