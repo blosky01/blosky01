@@ -12,7 +12,7 @@ I like new challenges and learn during the process.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blosky01&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blosky01&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blosky01&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_progress=true" />
 </a>
 
 ---
