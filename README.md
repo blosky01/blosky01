@@ -7,6 +7,7 @@ My name is Pablo Bravo López. I´m a Software and Web Developer from Málaga, S
 I like new challenges and learn during the process.
 
 ---
+![blosky01's GitHub stats](https://github-readme-stats.vercel.app/api?username=blosky01&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blosky01&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
